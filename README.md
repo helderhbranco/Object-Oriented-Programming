@@ -23,6 +23,32 @@ A API criada tem como finalidade a gestão de edições de Challenge Based Learn
 - Atribuição de notas referentes à autoavaliação e heteroavaliação dos estudantes.
 - Criação de exportadores específicos (CSV, JSON, etc) para todos os dados geridos pela CBL.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Object-Oriented Programming Paradigms Project in Java
+
+This project, developed in Java, is the result of collaborative work between two students as part of the Object-Oriented Programming Paradigms course. We did not use Git previously due to a lack of familiarity with the tool.
+
+The main objective of this project was to apply the concepts acquired in Object-Oriented Programming (OOP), designing and implementing solutions for practical problems.
+
+## Technical Description
+
+The API created aims to manage editions of Challenge Based Learning (CBL), covering projects, tasks, and submissions, as well as the administration of participants, including facilitators, partners, and students.
+
+## Implemented Functionalities
+
+- Management of CBL editions (addition, removal, and retrieval).
+- Definition of the active edition.
+- Addition of projects to the active edition or to inactive editions.
+- Listing editions with projects with missing submissions.
+- Listing projects with missing submissions from an edition and from the active edition.
+- Counting the number of projects for a given edition.
+- Counting the number of existing CBL editions.
+- Textual representation of the progress of a project.
+- Textual representation of the progress of an edition.
+- Addition of submissions to projects of an active edition only by students belonging to the respective projects.
+- Assignment of grades related to self-assessment and peer assessment by students.
+- Creation of specific exporters (CSV, JSON, etc.) for all data managed by the CBL.
 
 
 
